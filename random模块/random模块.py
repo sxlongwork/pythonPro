@@ -12,7 +12,7 @@ print(random.uniform(3,1))
 print(random.randint(1,4))
 
 # 产生一个范围的整数a,b,步长
-print(random.randrange(1,10,2))
+print(random.randrange(1, 10, 2))
 
 # 在字符串中随机取一个字符，random.choice(sequence)
 print(random.choice("abcd"))
